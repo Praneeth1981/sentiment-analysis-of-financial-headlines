@@ -6,5 +6,5 @@ positive, negative, or neutral, helping investors and analysts make more informe
 Performed preprocessing techniques for cnbc, guardian, reuters datasets which are available on kaggle.
 
 -Linear SVC, a support vector machine gave an accuracy of **93.43%** <br>
--Logistic Regresssion gave an accuracy rating of **89.37%** <br>
+-Logistic Regression gave an accuracy rating of **89.37%** <br>
 -Bernoulli Model came with an accuracy of **73.61%** <br>
